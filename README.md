@@ -43,7 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- It checks if HTML & CSS best practices are followed.
+- It checks if HTML & CSS best practices were followed.
 - It checks if semantic HTML tags were used.
 
 
